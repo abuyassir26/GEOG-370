@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "SandRoadGeoJson",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3857" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1, "Name": "Main Sand Road" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 3626535.778866289183497, 1757134.427908555371687 ], [ 3626481.145540052559227, 1756699.686121059115976 ] ] ] } }
+]
+}
