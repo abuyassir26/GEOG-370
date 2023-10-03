@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "NewLandscape",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1, "Label": "NewLandscape" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -71.033915743078168, 42.348040639350877 ], [ -71.032219658833583, 42.350412777171726 ], [ -71.026663596145525, 42.348169105089447 ], [ -71.029445991655976, 42.346846123459571 ], [ -71.033915743078168, 42.348040639350877 ] ] ] ] } }
+]
+}
